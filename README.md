@@ -1,2 +1,2 @@
 # dsa
-sanity check on dsa prep
+sanity check on dsa and general CS concepts
