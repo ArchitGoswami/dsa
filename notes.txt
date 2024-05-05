@@ -1,0 +1,23 @@
+notes
+
+1. arrays
+    a.python uses insert: insert places it 
+    b. can't append to empty list python
+    c. pop
+        i. list.pop() will remove last element, 
+        ii. list.pop(index) will remove from index position starting with 0.
+        iii. list.pop(-index) will remove from index position starting with 1, but from the back of the list.
+3. framework learnings: 
+    a. how to build classes
+    b. how to add functions to classes
+    c. how to work with self
+    d. how to work with __init__
+4. using if __name__ == "__main__" in py
+5. need to call functions that need no ARGUMENTS as object.class(). Just object.class does not work.\
+6. to add stuff in print, just use ,
+7. Python uses ~ instead of !
+8. Difference between Tries and Trees? (see: https://stackoverflow.com/questions/4737904/difference-between-tries-and-trees)
+9. dict
+    a. to add we use dict.update({key: value})
+    b. to remove we use dict.pop(key)
+    c. len also works to show # of key value pairs
